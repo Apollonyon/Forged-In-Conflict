@@ -1,1 +1,3 @@
 SAA = "countries/Saarland.txt"
+DPR = "countries/NorthKorea.txt"
+ROK = "countries/SouthKorea.txt"
